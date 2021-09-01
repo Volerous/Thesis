@@ -1,0 +1,9 @@
+*.h5
+*.pyc
+*.stdout
+.vscode/**
+*settings.json
+.vscode/settings.json
+**.tfrecord
+tables/**
+images/**
